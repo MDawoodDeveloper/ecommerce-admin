@@ -1,4 +1,4 @@
-"use clients";
+"use client";
 
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "./dialog";
 
